@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">My Application BMI Calculator</string>
+    <string name="section_title">BMI Kalkylator</string>
+    <string name="textinput_1">Vikt (KG)</string>
+    <string name="textinput_2">Längd (CM)</string>
+    <string name="btn_title">Räkna ut</string>
+
+</resources>

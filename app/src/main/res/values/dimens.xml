@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Typstorlek-->
+
+    <dimen name="small_font">18sp</dimen>
+    <dimen name="medium_font">20sp</dimen>
+    <dimen name="large_font">25sp</dimen>
+
+    <!-- Specifika padding-->
+
+    <dimen name="small_padding">20dp</dimen>
+
+    <!-- Specifika margin-->
+
+    <dimen name="small_margin">10dp</dimen>
+    <dimen name="medium_margin">25dp</dimen>
+    <dimen name="large_margin">20dp</dimen>
+
+    <!-- Specifika bredder-->
+
+¨   <dimen name="small_btn_width">165dp</dimen>
+    <dimen name="large_img_width">300dp</dimen>
+    <dimen name="large_width">296dp</dimen>
+
+    <!-- Specifika höjder -->
+
+    <dimen name="small_height">49</dimen>
+    <dimen name="medium_img_height">294dp</dimen>
+
+</resources>
